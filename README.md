@@ -37,13 +37,7 @@ A **web-based automated system** streamlines data management, ensures accuracy, 
 
 ---
 
-## 📸 Screenshots (Optional)
 
-> Add images or screen captures here to show UI and functionality  
-> You can upload images to your repo and use markdown syntax:  
-> `![Alt text](path/to/image.png)`
-
----
 
 ## 📦 Setup Instructions
 
